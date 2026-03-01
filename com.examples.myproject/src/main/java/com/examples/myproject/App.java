@@ -7,7 +7,7 @@ public class App {
 			return "Hello";
 		}
 		
-		return "Hello" + name;
+		return "Hello " + name;
 		
 	}
 	
