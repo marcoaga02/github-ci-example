@@ -12,6 +12,6 @@ public class App {
 	}
 	
 	public String sayHello() {
-		return "Hello";
+		return sayHello(null);
 	}
 }
